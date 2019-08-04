@@ -1,0 +1,182 @@
+0 0 0 
+
+
+.selector {
+  width: 32px;
+  height: 32px;
+}
+
+-------------------------
+
+bluebaycreater 
+
+.selector {
+  color: #47525E;
+  font-family: Cardo;
+  font-size: 25px;
+  font-weight: 400;
+  line-height: 32.5px;
+  text-align: left;
+}
+
+-----------------------
+
+
+right most 
+
+
+.selector {
+  background-color: #343F4B;
+  width: 32px;
+  height: 32px;
+}
+-------------------------
+logo
+
+
+.fontcandy-9-icon-png {
+  width: 128px;
+  height: 128px;
+}
+
+----------------------
+next page
+
+
+.selector {
+  width: 32px;
+  height: 32px;
+}
+
+-------------------
+topic
+
+.selector {
+  color: #000000;
+  font-family: Cardo;
+  font-size: 23px;
+  font-weight: 400;
+  line-height: 29.5px;
+  text-align: left;
+}
+
+
+---------------------
+next line
+
+.selector {
+  color: #000812;
+  font-family: Cardo;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 23px;
+  text-align: left;
+}
+
+
+---------------------
+
+
+love logo
+
+.fontcandy-42-icon-png {
+  width: 100px;
+  height: 100px;
+}
+--------------------
+love heading
+
+.selector {
+  color: #030C12;
+  font-family: Cardo;
+  font-size: 23px;
+  font-weight: 400;
+  line-height: 29.5px;
+  text-align: left;
+}
+---------------------
+line
+
+.selector {
+  color: #020A12;
+  font-family: Cardo;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 23px;
+  text-align: left;
+}
+------------------------
+green logo
+
+
+.fontcandy-49-icon-png {
+  width: 108px;
+  height: 108px;
+}
+
+
+-------------------------
+green heading
+
+.selector {
+  color: #020B16;
+  font-family: Cardo;
+  font-size: 23px;
+  font-weight: 400;
+  line-height: 29.5px;
+  text-align: left;
+}
+
+
+----------------------------
+
+
+green content
+
+
+.selector {
+  color: #02080F;
+  font-family: Cardo;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 23px;
+  text-align: left;
+}
+
+
+---------------------------
+
+
+blue logog
+
+
+.fontcandy-45-icon-png {
+  width: 104px;
+  height: 104px;
+}
+
+---------------------------
+blue heading
+
+.selector {
+  color: #01060C;
+  font-family: Cardo;
+  font-size: 23px;
+  font-weight: 400;
+  line-height: 29.5px;
+  text-align: left;
+}
+--------------------------
+blue content
+
+.selector {
+  color: #02060A;
+  font-family: Cardo;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 23px;
+  text-align: left;
+}
+
+
+
