@@ -1,0 +1,209 @@
+back
+
+.selector {
+  opacity: 0.64;
+  width: 32px;
+  height: 32px;
+}
+
+-----------------------
+
+
+bluebaycreater
+
+.selector {
+  color: #47525E;
+  font-family: Cardo;
+  font-size: 25px;
+  font-weight: 400;
+  line-height: 32.5px;
+  text-align: left;
+}
+
+------------------------
+right most
+
+.selector {
+  background-color: #343F4B;
+  width: 32px;
+  height: 32px;
+}
+
+-------------------------
+
+ani logog
+
+
+.fontcandy-43-icon-png {
+  width: 94px;
+  height: 94px;
+}
+
+-------------------------
+
+ani edition
+
+.selector {
+  color: #000000;
+  font-family: Cardo;
+  font-size: 23px;
+  font-weight: 400;
+  line-height: 29.5px;
+  text-align: left;
+}
+
+
+--------------------------
+
+
+
+the best lines selected from people
+
+.selector {
+  color: #000812;
+  font-family: Cardo;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 23px;
+  text-align: left;
+}
+
+------------------------------
+
+green logo next
+
+.fontcandy-50-icon-png {
+  width: 102px;
+  height: 102px;
+}
+---------------------------
+
+stories
+
+.selector {
+  color: #01060C;
+  font-family: Cardo;
+  font-size: 23px;
+  font-weight: 400;
+  line-height: 29.5px;
+  text-align: left;
+}
+
+-----------------------------
+
+best stories in bluebay
+.selector {
+  color: #01090D;
+  font-family: Cardo;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 23px;
+  text-align: left;
+}
+
+-----------------------------
+
+
+blue logo
+
+.fontcandy-46-icon-png {
+  width: 92px;
+  height: 92px;
+}
+
+----------------------
+
+emotional heading
+
+.selector {
+  color: #010307;
+  font-family: Cardo;
+  font-size: 23px;
+  font-weight: 400;
+  line-height: 29.5px;
+  text-align: left;
+}
+
+-------------------
+
+bluebay's perfect dish
+
+.selector {
+  color: #010508;
+  font-family: Cardo;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 23px;
+  text-align: left;
+}
+
+----------------------
+
+green logo
+
+.fontcandy-51-icon-png {
+  width: 116px;
+  height: 116px;
+}
+
+---------------------
+
+submit
+
+.selector {
+  color: #020B16;
+  font-family: Cardo;
+  font-size: 23px;
+  font-weight: 400;
+  line-height: 29.5px;
+  text-align: left;
+}
+
+----------------------------
+
+
+submit your temping lines
+
+
+.selector {
+  color: #02080F;
+  font-family: Cardo;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 23px;
+  text-align: left;
+}
+
+-----------------------------
+
+blue logo
+
+.fontcandy-47-icon-png {
+  width: 100px;
+  height: 100px;
+}
+
+-------------------
+
+About bluebaycreater
+
+.selector {
+  color: #01060C;
+  font-family: Cardo;
+  font-size: 23px;
+  font-weight: 400;
+  line-height: 29.5px;
+  text-align: left;
+}
+---------------------
+
+the love world, to spread love...
+
+.selector {
+  color: #02060A;
+  font-family: Cardo;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 23px;
+  text-align: left;
+}
