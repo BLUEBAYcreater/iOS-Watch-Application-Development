@@ -1,0 +1,149 @@
+0 0 0 
+
+.selector {
+  width: 32px;
+  height: 32px;
+}
+
+------------------
+
+
+bluebaycreater
+
+.selector {
+  color: #47525E;
+  font-family: Cardo;
+  font-size: 25px;
+  font-weight: 400;
+  line-height: 32.5px;
+  text-align: left;
+}
+
+
+------------------
+
+
+right most circle
+
+
+.selector {
+  background-color: #343F4B;
+  width: 32px;
+  height: 32px;
+}
+
+
+--------------------
+
+
+bluebaycreater
+
+
+.selector {
+  color: #FFFFFF;
+  font-family: Roboto;
+  font-size: 27px;
+  font-weight: 400;
+  line-height: 8px;
+  width: 353px;
+  text-align: left;
+}
+
+
+---------------------
+
+
+for the heart that melts
+
+
+.selector {
+  color: #FFFFFF;
+  font-family: Roboto;
+  font-size: 21px;
+  font-weight: 300;
+  line-height: 8px;
+  width: 353px;
+  text-align: left;
+}
+
+
+-------------------------
+
+
+contact us
+
+.selector {
+  color: #FFFFFF;
+  font-family: Roboto;
+  font-size: 21px;
+  font-weight: 500;
+  line-height: 8px;
+  width: 353px;
+  text-align: left;
+}
+
+---------------------------
+
+share your lines
+
+
+.selector {
+  color: #FFFFFF;
+  font-family: Roboto;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 8px;
+  width: 353px;
+  text-align: left;
+}
+
+
+----------------------------
+
+mail aniketh
+
+
+.selector {
+  color: #FFFFFF;
+  font-family: Roboto;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 8px;
+  width: 353px;
+  text-align: left;
+}
+
+
+-------------------------------
+
+
+visit our website
+
+.selector {
+  color: #FFFFFF;
+  font-family: Roboto;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 8px;
+  width: 353px;
+  text-align: left;
+}
+
+
+-------------------------
+menu box
+
+.selector {
+  background-color: #1E2D3E;
+  width: 456px;
+  height: 623px;
+}
+
+----------------------------
+
+right 
+
+.selector {
+  width: 32px;
+  height: 32px;
+}
