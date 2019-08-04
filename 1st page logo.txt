@@ -1,0 +1,26 @@
+logo bluebaycreater
+
+
+.fontcandy-9-icon-png {
+  width: 244px;
+  height: 244px;
+}
+
+
+----------------------------
+for the heart that melts
+
+.selector {
+  color: #47525E;
+  font-family: Bree Serif;
+  font-size: 25px;
+  font-weight: 400;
+  line-height: 32.5px;
+  opacity: 0.52;
+  text-align: left;
+}
+
+
+------------------------------
+
+
