@@ -1,0 +1,74 @@
+back
+
+.selector {
+  width: 0;
+  height: 32px;
+}
+
+
+-------------------------
+
+
+whole blue layer
+
+.selector {
+  background-color: #263445;
+  opacity: 0.3;
+  width: 542.43px;
+  height: 892px;
+}
+
+---------------------------
+
+white color on blue
+
+.selector {
+  background-color: #FFFFFF;
+  width: 422px;
+  height: 606.5px;
+}
+
+-----------------------------
+
+missed and emssed
+
+.selector {
+  color: #47525E;
+  font-family: Roboto;
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 34.5px;
+  width: 290.3px;
+  text-align: left;
+}
+
+--------------------------------
+
+
+content 
+
+.selector {
+  color: #47525E;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 34.5px;
+  width: 340.53px;
+  text-align: left;
+}
+
+
+--------------------------------
+
+
+next
+
+.selector {
+  color: #417CBD;
+  font-family: Roboto;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 30px;
+  width: 111.5px;
+  text-align: center;
+}
